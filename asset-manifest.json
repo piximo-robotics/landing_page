@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/landing_page/static/css/main.ae42ac5f.css",
+    "main.js": "/landing_page/static/js/main.2f610465.js",
+    "index.html": "/landing_page/index.html",
+    "main.ae42ac5f.css.map": "/landing_page/static/css/main.ae42ac5f.css.map",
+    "main.2f610465.js.map": "/landing_page/static/js/main.2f610465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.2f610465.js"
+  ]
+}
