@@ -1,6 +1,6 @@
 {
   "name": "landingpage-react-template",
-  "homepage": "http://piximo-robotics.github.io/landing_page/",
+  "homepage": "https://piximo-robotics.github.io/landing_page/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
